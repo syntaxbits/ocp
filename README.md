@@ -119,7 +119,3 @@ This repository contains practical Java applications designed to help prepare fo
         * `com.example.mainapp`: The main application to demonstrate these features.
 
 ---
-
-This `README.md` is ready for your GitHub repository!
-
-Please let me know when you're ready, and we'll dive into **Objective 1: Handling date, time, text, numeric and boolean values**.
